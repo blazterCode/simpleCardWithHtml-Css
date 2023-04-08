@@ -1,3 +1,3 @@
 # simpleCardWithHtml-Css
 
-https://raw.githubusercontent.com/blazterCode/simpleCardWithHtml-Css/blazter/blob/blazter/img.png/al/asset
+https://raw.githubusercontent.com/blazterCode/simpleCardWithHtml-Css/blazter/al/asset/img.png
